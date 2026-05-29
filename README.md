@@ -17,29 +17,31 @@
 
 
 ## Introduction:
-<div align="center">
-  <p>This project presents the design, analysis, and prototyping of a static sector-gate storm surge barrier using a laminated Warren truss cantilever. Inspired by the Maeslantkering in the Netherlands, the structure transfers a 50N lateral hydrostatic force to a single 10mm pivot anchor while maintaining vertical deflection under 6mm. Analytical validation via MathCAD confirms elastic buckling as the governing failure mode with a safety factor of 7.2. The physical prototype, constructed from balsa wood and cardboard, demonstrates a predicted failure load of 252N and a success metric of 103, indicating the structure can support 103 times its own weight.</p>
-</div>
+<p align="center" style="max-width: 800px; margin: 0 auto; text-align: center;">
+  This project presents the design, analysis, and prototyping of a static sector-gate storm surge barrier using a laminated Warren truss cantilever. Inspired by the Maeslantkering in the Netherlands, the structure transfers a 50N lateral hydrostatic force to a single 10mm pivot anchor while maintaining vertical deflection under 6mm. Analytical validation via MathCAD confirms elastic buckling as the governing failure mode with a safety factor of 7.2. The physical prototype, constructed from balsa wood and cardboard, demonstrates a predicted failure load of 252N and a success metric of 103, indicating the structure can support 103 times its own weight.
+</p>
 
 
 
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/62ae7a7e-58be-499b-bc61-556c68486930" />
 
 
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/e4d4d150-0467-4f82-b62b-4de38f3c5556" />
 
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/70ca148c-be7d-41f1-86ff-225dd88d15f9" />
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/85bdabab-8108-4a40-9102-9fc0c4aa54c4" />
 
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/4b012581-9b0f-4755-9c30-a702927083e7" />
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/8a4a2899-bc5c-4940-ab52-fb670941a746" />
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/4e7148cc-2fb3-4d07-86ec-500b792ab789" />
 
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/6f27b607-03c1-4a7e-b981-79fc6b3ccd1c" />
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/539fe2db-e522-4aff-946d-7efe43928a59" />
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/555e69ec-d915-4427-ba48-87679a8e11d4" />
 
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/28788b05-9a30-456e-a6ed-bc906a8539af" />
 
-
-
-
-
-
-
-
-
-
-
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/02747640-88ff-4204-9a56-c25fcdfa0974" />
 
 
 
