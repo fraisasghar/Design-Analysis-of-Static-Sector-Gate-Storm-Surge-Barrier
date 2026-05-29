@@ -13,11 +13,13 @@
   <img src="https://img.shields.io/badge/Load-50N%20Hydrostatic-006400?style=for-the-badge" />
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=cc2200&height=2">
 
 
-
-
-
+## Introduction:
+<div align="center">
+  <p>This project presents the design, analysis, and prototyping of a static sector-gate storm surge barrier using a laminated Warren truss cantilever. Inspired by the Maeslantkering in the Netherlands, the structure transfers a 50N lateral hydrostatic force to a single 10mm pivot anchor while maintaining vertical deflection under 6mm. Analytical validation via MathCAD confirms elastic buckling as the governing failure mode with a safety factor of 7.2. The physical prototype, constructed from balsa wood and cardboard, demonstrates a predicted failure load of 252N and a success metric of 103, indicating the structure can support 103 times its own weight.</p>
+</div>
 
 
 
