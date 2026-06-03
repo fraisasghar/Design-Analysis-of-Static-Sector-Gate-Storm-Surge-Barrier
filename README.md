@@ -37,6 +37,18 @@
 
 <img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/6f27b607-03c1-4a7e-b981-79fc6b3ccd1c" />
 <img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/539fe2db-e522-4aff-946d-7efe43928a59" />
+
+
+## Model Testing under UTS Machine
+### Test Summary
+- **Maximum Load:** 4500N
+- **Testing Equipment:** UTS Machine
+- **Component Tested:** Static Sector Gate Storm Surge Barrier Model
+
+<video src="https://github.com/fraisashgar/Design-Analysis-of-Static-Sector-Gate-Storm-Surge-Barrier/raw/main/video/Model%20Testing%20under%20UTS%20Machine.mp4" controls width="100%"></video>
+
+
+
 <img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/555e69ec-d915-4427-ba48-87679a8e11d4" />
 
 <img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/28788b05-9a30-456e-a6ed-bc906a8539af" />
