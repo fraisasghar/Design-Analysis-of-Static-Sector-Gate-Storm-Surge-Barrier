@@ -45,7 +45,8 @@
 - **Testing Equipment:** UTS Machine
 - **Component Tested:** Static Sector Gate Storm Surge Barrier Model
 
-<video src="https://github.com/fraisashgar/Design-Analysis-of-Static-Sector-Gate-Storm-Surge-Barrier/raw/main/video/Model%20Testing%20under%20UTS%20Machine.mp4" controls width="100%"></video>
+
+https://github.com/user-attachments/assets/c33570dd-eec8-42c6-b394-1c06970985ef
 
 
 
