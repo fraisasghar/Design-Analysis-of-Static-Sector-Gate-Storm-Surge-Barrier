@@ -1,3 +1,6 @@
+
+<!--------|---------|---------|------------------- Main Banner  ----------------------------------------------------------------->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a6186,100:89253e&height=200&section=header&text=Storm%20Surge%20Barrier&fontSize=48&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=Sector-Gate%20Cantilever%20|%20Warren%20Truss%20|%20Balsa%20Wood&descAlign=50&descAlignY=88&descSize=18&descColor=fce4ec&shadow=true" alt="Header" />
 </div>
